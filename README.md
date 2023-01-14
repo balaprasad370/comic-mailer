@@ -5,11 +5,11 @@
 
 Link: 
 
-[http://18.208.106.47/](http://18.208.106.47/)
+[http://18.206.118.37/](http://18.206.118.37/)
 
 or
 
-[http://ec2-18-208-106-47.compute-1.amazonaws.com/](http://ec2-18-208-106-47.compute-1.amazonaws.com/)
+[http://ec2-18-206.118.37.compute-1.amazonaws.com/](http://ec2-18-206.118.37.compute-1.amazonaws.com/)
 
 
 # Prerequisites
